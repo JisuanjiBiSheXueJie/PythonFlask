@@ -1,0 +1,10 @@
+应用Python爬虫、Flask框架、Echarts、VUE等技术实现  城市招聘需求分布
+![2023年01月28日20时:36分:21秒](https://cyymacbookpro.oss-cn-shanghai.aliyuncs.com/Macbookpro/2023年01月28日20时:36分:21秒)
+![2023年01月28日20时:36分:53秒](https://cyymacbookpro.oss-cn-shanghai.aliyuncs.com/Macbookpro/2023年01月28日20时:36分:53秒)
+![2023年01月28日20时:37分:03秒](https://cyymacbookpro.oss-cn-shanghai.aliyuncs.com/Macbookpro/2023年01月28日20时:37分:03秒)
+![2023年01月28日20时:37分:20秒](https://cyymacbookpro.oss-cn-shanghai.aliyuncs.com/Macbookpro/2023年01月28日20时:37分:20秒)
+![2023年01月28日20时:37分:31秒](https://cyymacbookpro.oss-cn-shanghai.aliyuncs.com/Macbookpro/2023年01月28日20时:37分:31秒)
+![2023年01月28日20时:37分:48秒](https://cyymacbookpro.oss-cn-shanghai.aliyuncs.com/Macbookpro/2023年01月28日20时:37分:48秒)
+![2023年01月28日20时:38分:11秒](https://cyymacbookpro.oss-cn-shanghai.aliyuncs.com/Macbookpro/2023年01月28日20时:38分:11秒)
+![2023年01月28日20时:38分:45秒](https://cyymacbookpro.oss-cn-shanghai.aliyuncs.com/Macbookpro/2023年01月28日20时:38分:45秒)
+![2023年01月28日20时:39分:03秒](https://cyymacbookpro.oss-cn-shanghai.aliyuncs.com/Macbookpro/2023年01月28日20时:39分:03秒)
